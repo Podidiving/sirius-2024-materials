@@ -1,0 +1,3 @@
+1. GPT and self-attention basics [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/podidiving/sirius-2024-materials/blob/main/transformers-seminar/gpt-intro.ipynb)
+2. Visual Transformer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/podidiving/sirius-2024-materials/blob/main/transformers-seminar/vith.ipynb)
+3. Convnext [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/podidiving/sirius-2024-materials/blob/main/transformers-seminar/convnext.ipynb)
