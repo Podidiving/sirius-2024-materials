@@ -1,1 +1,2 @@
 1. Diffusion basics [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/podidiving/sirius-2024-materials/blob/main/diffusion-seminar/ddpm_from_scratch.ipynb)
+2. Diffusers models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/podidiving/sirius-2024-materials/blob/main/diffusion-seminar/diffusers_models.ipynb)
